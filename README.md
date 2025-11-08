@@ -38,11 +38,11 @@ CONT. VALORES - foi usado para achar a quantidade de cidades e que foram contemp
 <img width="808" height="419" alt="Captura de tela 2025-09-19 204702" src="https://github.com/user-attachments/assets/232a49ce-adea-4666-b7be-f59825251dc7" />
 
 
-atividade 3: manipulação de dados de importação/exportação e elaboração do dashboard
+##atividade 3: manipulação de dados de importação/exportação e elaboração do dashboard
 colocar bandeiras, fazer visualizações em gráficos de linha e tabelas.
 
-atividade 4: banco de dados sobre venda de sorvetes
+##atividade 4: banco de dados sobre venda de sorvetes
 elaboração de gráfico e tabela sobre vendas de sorvetes em função da temperatura, utilizando excel e collab.
 
-atividade 5: análise de dados sobre salário
+##atividade 5: análise de dados sobre salário
 elaboração de gráfico e tabela sobre salário em função do tempo de experiência, utilizando excel e collab.
