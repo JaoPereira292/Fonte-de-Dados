@@ -9,6 +9,7 @@
 ### Atividade 2: Tabela de Dados Teams dia 12/09/25: Ultilizamos o Excel e as seguintes fórmulas:
 
 Funções:
+
 =CONT.VALORES(): Conta a quantidade de células não vazias em um intervalo determinado.
 "CONT.VALORES(sp_municipal!A:J)-1".
 
