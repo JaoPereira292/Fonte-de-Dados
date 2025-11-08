@@ -6,10 +6,25 @@
 
 
 
+### Atividade 2: Tabela de Dados Teams dia 12/09/25: Ultilizamos o Excel e as seguintes fórmulas:
 
-#Dados abertos em formação de planilhas
+Funções:
+=CONT.VALORES(): Conta a quantidade de células não vazias em um intervalo determinado.
+"CONT.VALORES(sp_municipal!A:J)-1".
 
-##Planilha de munícipios
+=MÁXIMOSES(): Retorna o maior valor de uma célula de um determinado intervalo que atende a uma ou mais condições.
+"MÁXIMOSES (sp_municipal!G:G;sp_municipal!D:D;2022;sp_municipal!B:B;"São Paulo")".
+
+=MINIMOSES(): retorna o menor valor de uma célula de um determinado intervalo que atende a uma ou mais condições.
+"MÍNIMOSES(sp_municipal!G:G;sp_municipal!D:D;2023;sp_municipal!B:B;"São Paulo")".
+
+=CORRESP(): Retorna a posição da célula escolhida por seu valor dentro de um intervalo.
+"CORRESP(B12;sp_municipal!G:G;0)".
+
+=ÍNDICE(): Retorna o valor da célula escolhida por sua posição na tabela.
+"ÍNDICE(sp_municipal!F:F;B18;1)".
+
+#Descrição das fórmulas: 
 
 ÍNDICE - foi usado para achar a linha da cidade em que o VTI estava em ascensão ou em declinio.
 CORRESP - foi usado para achar os valores do VTI ou a cadeia produtiva de destaque das cidades escolhidas.
