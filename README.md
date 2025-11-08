@@ -1,5 +1,5 @@
 # Fonte-de-Dados
-## Apresentação do trabalho em equipe em PowerPoint.
+### Apresentação do trabalho em equipe em PowerPoint.
 
 <img width="1304" height="735" alt="Captura de tela 2025-09-18 204630" src="https://github.com/user-attachments/assets/edbb919d-276d-4119-a290-fafa4229826b" />
 
@@ -38,7 +38,7 @@ CONT. VALORES - foi usado para achar a quantidade de cidades e que foram contemp
 <img width="808" height="419" alt="Captura de tela 2025-09-19 204702" src="https://github.com/user-attachments/assets/232a49ce-adea-4666-b7be-f59825251dc7" />
 
 
-#### Atividade 3: manipulação de dados de importação/exportação e elaboração do dashboard
+### Atividade 3: manipulação de dados de importação/exportação e elaboração do dashboard
 colocar bandeiras, fazer visualizações em gráficos de linha e tabelas.
 
 ### Atividade 4: banco de dados sobre venda de sorvetes
