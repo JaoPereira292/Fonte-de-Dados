@@ -8,7 +8,7 @@
 
 ### Atividade 2: Tabela de Dados Teams dia 12/09/25: Ultilizamos o Excel e as seguintes fórmulas:
 
-Funções:
+# Funções:
 
 =CONT.VALORES(): Conta a quantidade de células não vazias em um intervalo determinado.
 "CONT.VALORES(sp_municipal!A:J)-1".
@@ -25,7 +25,7 @@ Funções:
 =ÍNDICE(): Retorna o valor da célula escolhida por sua posição na tabela.
 "ÍNDICE(sp_municipal!F:F;B18;1)".
 
-#Descrição das fórmulas: 
+# Descrição das fórmulas: 
 
 ÍNDICE - foi usado para achar a linha da cidade em que o VTI estava em ascensão ou em declinio.
 CORRESP - foi usado para achar os valores do VTI ou a cadeia produtiva de destaque das cidades escolhidas.
@@ -41,8 +41,8 @@ CONT. VALORES - foi usado para achar a quantidade de cidades e que foram contemp
 ### Atividade 3: manipulação de dados de importação/exportação e elaboração do dashboard
 colocar bandeiras, fazer visualizações em gráficos de linha e tabelas.
 
-### Atividade 4: banco de dados sobre venda de sorvetes
+### Atividade 4: banco de dados sobre venda de sorvetes no collab
 elaboração de gráfico e tabela sobre vendas de sorvetes em função da temperatura, utilizando excel e collab.
 
-### Atividade 5: análise de dados sobre salário
+### Atividade 5: análise de dados salariais e regressão linear
 elaboração de gráfico e tabela sobre salário em função do tempo de experiência, utilizando excel e collab.
