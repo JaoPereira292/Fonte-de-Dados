@@ -40,11 +40,15 @@ CONT. VALORES - foi usado para achar a quantidade de cidades e que foram contemp
 
 # Atividade 3: manipulação de dados de importação/exportação e elaboração do dashboard
 
+<img width="831" height="467" alt="Captura de tela 2025-11-14 220345" src="https://github.com/user-attachments/assets/a97ca894-c054-424e-9b8f-9563e60f692b" />
 
 
 # Atividade 4: banco de dados sobre venda de sorvetes no collab
 
 <img width="850" height="550" alt="Captura de tela 2025-11-14 214810" src="https://github.com/user-attachments/assets/284ac44c-1c7d-425e-8718-25951159565b" />
+
+<img width="829" height="563" alt="Captura de tela 2025-11-14 220206" src="https://github.com/user-attachments/assets/67cf4256-d869-4ee2-9e96-d16b39162fed" />
+
 
 
 # Atividade 5: análise de dados salariais e regressão linear
