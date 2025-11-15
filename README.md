@@ -39,11 +39,13 @@ CONT. VALORES - foi usado para achar a quantidade de cidades e que foram contemp
 
 
 # Atividade 3: manipulação de dados de importação/exportação e elaboração do dashboard
-colocar bandeiras, fazer visualizações em gráficos de linha e tabelas.
+
+
 
 # Atividade 4: banco de dados sobre venda de sorvetes no collab
 
-<file:///C:/Users/Fatec/Pictures/Screenshots/Captura%20de%20tela%202025-11-14%20214810.png>
+<img width="850" height="550" alt="Captura de tela 2025-11-14 214810" src="https://github.com/user-attachments/assets/284ac44c-1c7d-425e-8718-25951159565b" />
+
 
 # Atividade 5: análise de dados salariais e regressão linear
 elaboração de gráfico e tabela sobre salário em função do tempo de experiência, utilizando excel e collab.
