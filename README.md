@@ -48,4 +48,6 @@ CONT. VALORES - foi usado para achar a quantidade de cidades e que foram contemp
 
 
 # Atividade 5: análise de dados salariais e regressão linear
-elaboração de gráfico e tabela sobre salário em função do tempo de experiência, utilizando excel e collab.
+
+<img width="1180" height="865" alt="Captura de tela 2025-11-14 215847" src="https://github.com/user-attachments/assets/8fd7bc94-9ab0-41ed-9b5d-034bca1a8f52" />
+
