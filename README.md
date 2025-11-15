@@ -42,7 +42,8 @@ CONT. VALORES - foi usado para achar a quantidade de cidades e que foram contemp
 colocar bandeiras, fazer visualizações em gráficos de linha e tabelas.
 
 # Atividade 4: banco de dados sobre venda de sorvetes no collab
-elaboração de gráfico e tabela sobre vendas de sorvetes em função da temperatura, utilizando excel e collab.
+
+<file:///C:/Users/Fatec/Pictures/Screenshots/Captura%20de%20tela%202025-11-14%20214810.png>
 
 # Atividade 5: análise de dados salariais e regressão linear
 elaboração de gráfico e tabela sobre salário em função do tempo de experiência, utilizando excel e collab.
